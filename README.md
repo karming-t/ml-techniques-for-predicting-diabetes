@@ -9,4 +9,4 @@ _"featured_unclean.xlsx"_ contains feature data that are known factors that cont
 
 _"resolved_nan.xlsx"_ contains cleaned featured data where rows with missing values and target variable classes that relates to gestational and pre/borderline diabetes were removed as this study only refers to strictly diagnosed Type 1 or 2 diabetes.
 
-For further information on the study, access the PDF file attached in the repository.
+***For further information on the study, access the PDF file attached in the repository.***
